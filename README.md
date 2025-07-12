@@ -12,6 +12,4 @@ Every time you use "AI" LOOK FOR TYPOS.
 
 I have had a response that told me to install a python lib named "reqwest" instead of "request" and python libraries CAN HAVE BAD STUFF if not careful.
 
-I may or may not make this statement public. I am uploading to github for safekeep. 
-
 PS: years ago code it "generated" was scraped from Geeks4Geeks, same vairable names and even comments sometimes. Many responses are pre-determined.
