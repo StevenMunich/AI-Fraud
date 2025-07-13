@@ -1,5 +1,7 @@
 Was working on a project, when I asked AI to "redo" a process model or a Sequence Diagram
 
+the word "installer" is spelled 3 different ways by "ai"
+
 For deciding what development methodology to use for a product(security vs availability):
 ![Typo-in-response](https://github.com/StevenMunich/AI-Fraud/blob/main/typoInAI.png)
 
